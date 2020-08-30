@@ -1,8 +1,6 @@
 # Introduction to Business Analytics (Year 1 Sem 3 work documents)
 
-Work Title:
-
-##Heineken N. V. Company Overview Report
+## Heineken N. V. Company Overview Detailed Report
 
 In conducting this assignment, students are required to apply their research and analytical skills, problem solving skills, teamwork and collaboration, project management, communication and presentation skills and knowledge of current collaboration tools and technologies relevant to business analytics in making their recommendations.
 

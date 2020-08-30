@@ -2,7 +2,7 @@
 
 Work Title:
 
-<h5><u>Heineken N. V. Company Overview Report</u></h5>
+##Heineken N. V. Company Overview Report
 
 In conducting this assignment, students are required to apply their research and analytical skills, problem solving skills, teamwork and collaboration, project management, communication and presentation skills and knowledge of current collaboration tools and technologies relevant to business analytics in making their recommendations.
 

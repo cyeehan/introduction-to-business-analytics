@@ -27,7 +27,7 @@ The organization selected may be companies incorporated in Malaysia or multinati
 
 <br>
 
-<u>Suggested Report structure for Group Assignment as following:</u>
+<u>Suggested report structure for group assignment as following:</u>
 
 1.	**Overview of Organization.**
 
@@ -35,15 +35,21 @@ The organization selected may be companies incorporated in Malaysia or multinati
 * Type of business organization.
   *  such as Products/services offer, target markets, customers segmentation.
 
+<br>
+
 2.	**Types of Information Systems currently used in the organisation.**
 
 * Study the analytical information system such as CRM, SCM, DSS, or Expert System (study any THREE).
+
+<br>
 
 3.	**Analysis of Current Business on how they solve past/current problems encountered.**
 
 * Analyse current business environment (use SWOT technique).
 * Identification of past or current challenges/problems encountered in the organization.
 * Identify which problems (from part 3b) faced are solved with business analytics.
+
+<br>
 
 4.	**Identification of Business Analytical/Business Intelligent solution.**
 
@@ -75,6 +81,10 @@ d.	The types of Business Analytics techniques used, examples as the below.
 
 e.	Impact of the implementation of business analytics solution for the company.
 
+<br>
+
 5.	**Recommendations of BA/BI solutions for the company.**
+
+<br>
 
 6.	**Conclusion.**

@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(13,12,12);
+  color: rgb(255,255,255);
+}
+
+
+@media (min-width: 576px) {
+  #hero-bottom .container {
+    text-align: center;
+    height: 120px;
+  }
+}
+
+@media (min-width: 768px) {
+  #video-and-info {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+}
+
+
+
+@media (min-width: 768px) {
+  #event-news {
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    background-image: url("../../assets/img/100.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 60%;
+  }
+}
+
+
+
+#contact-connect-first-box {
+  line-height: 40px;
+  margin: 20px 0px 20px 0px;
+}
+
+
+@media (min-width: 768px) {
+  .item-list-connect-contact-us {
+    /*margin-top: 40px;*/
+    /*margin-left: 280px;*/
+  }
+}
+
+
+.row.connect-contact-us {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
+#connect-contact-header {
+  font-weight: bold;
+  line-height: 54px;
+  font-style: normal;
+  letter-spacing: 1px;
+}
+
+
+

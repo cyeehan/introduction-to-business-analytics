@@ -1,0 +1,348 @@
+.page-footer {
+  background-color: #f3f3f2;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.page-footer h4 {
+  color: #333333;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.page-footer p {
+  color: #888;
+  font-size: 11px;
+}
+
+.page-footer .footer-links {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 45px;
+  word-break: break-all;
+}
+
+.page-footer .footer-links a {
+  color: #555;
+  font-size: 11px;
+}
+
+.page-footer .footer-links li {
+  margin-bottom: 5px;
+  line-height: 1.3;
+}
+
+.page-footer .footer-legal .copyright {
+  margin-right: 60px;
+}
+
+.page-footer .footer-legal .legal-links .item {
+  padding-right: 13px;
+  border-right: 1px solid #ccc;
+  margin: 0;
+  margin-right: 13px;
+}
+
+.page-footer .footer-legal .legal-links .item:last-child {
+  border-right: none;
+}
+
+.page-footer .footer-legal .legal-links .item h5 {
+  font-size: 11px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.page-footer .region {
+  margin-bottom: 20px;
+}
+
+.page-footer .region a {
+  color: #555;
+  font-size: 11px;
+}
+
+.page-footer .region img {
+  margin-right: 7px;
+}
+
+@media (min-width: 768px) {
+  .page-footer .region {
+    margin-bottom: 0;
+  }
+}
+
+.form-control {
+  margin-bottom: 20px;
+  height: 50px;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+#register-h1 {
+  font-size: 28px;
+}
+
+.col-md-3.contact-us {
+  text-align: center;
+}
+
+.fa.fa-facebook.connect-contact-us {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  font-size: 50px;
+  margin-left: 0;
+  margin-top: 10px;
+  margin-right: 100px;
+}
+
+.fa.fa-twitter.connect-contact-us {
+  font-size: 50px;
+  margin-right: 70px;
+  margin-left: 0;
+  margin-top: 10px;
+}
+
+.fa.fa-twitter.connect-contact-us {
+  font-size: 50px;
+  margin-right: 100px;
+  margin-left: 0;
+  margin-top: 10px;
+}
+
+.fa.fa-linkedin.connect-contact-us {
+  font-size: 50px;
+  margin-right: 70px;
+  margin-left: 0;
+  margin-top: 10px;
+}
+
+@media (min-width: 576px) {
+  .fa.fa-linkedin.connect-contact-us {
+    font-size: 50px;
+    margin-right: 100px;
+    margin-left: 0;
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 300px) {
+  .fa.fa-instagram.connect-contact-us {
+    font-size: 50px;
+    margin-left: 0;
+    margin-top: 10px;
+    margin-right: 0;
+  }
+}
+
+.fa.fa-instagram.connect-contact-us {
+  font-size: 50px;
+  margin-left: 0;
+  margin-top: 10px;
+  margin-right: 0;
+}
+
+.links-connect {
+  width: 500px;
+  font-size: 18px;
+  height: 80px;
+}
+
+@media (min-width: 300px) {
+  .links-connect {
+    font-size: 18px;
+    height: 80px;
+  }
+}
+
+@media (min-width: 576px) {
+  .item-list-connect-contact-us-second {
+    margin-top: 40px;
+    margin-left: 20px;
+    max-width: 500px;
+  }
+}
+
+.item-list-connect-contact-us-second {
+  margin: 40px 10px 0px 10px;
+}
+
+.link-contact-us {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.footer-links {
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+  /*width: 100px;*/
+  line-height: 40px;
+  font-weight: bold;
+  font-style: normal;
+  color: black;
+}
+
+@media (min-width: 576px) {
+  .footer-first-box {
+    font-size: 18px;
+    /*width: 1000px;*/
+  }
+}
+
+.footer-first-box {
+  font-size: 18px;
+}
+
+.item-list-footer {
+  margin-top: 30px;
+  font-family: Montserrat, sans-serif;
+}
+
+@media (min-width: 576px) {
+  .item-list-footer {
+    margin-left: 150px;
+    margin-top: 70px;
+    width: 0px;
+    font-family: Montserrat, sans-serif;
+  }
+}
+
+#registration {
+  background-image: url("../../assets/img/Brand-Personality-3.jpg");
+  width: 100%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: 0% 0%;
+  opacity: 1;
+}
+
+#login {
+  background-image: url("../../assets/img/Brand-Personality-3.jpg");
+  width: 100%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: 0% 0%;
+  opacity: 1;
+}
+
+.item-list-image {
+  width: 100%;
+  margin: 0;
+  margin-left: 1000px;
+}
+
+.footer-coca-cola {
+  width: 1000px;
+  height: 100px;
+}
+
+.text-center.item-list-footer-image {
+  margin-top: 40px;
+  max-width: 500px;
+  margin-left: 20px;
+}
+
+@media (min-width: 576px) {
+  .item-list-footer-image {
+    border: 0;
+    background-image: url("../../assets/img/Logo-Eticketing.png");
+    width: 400px;
+    height: 200px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-left: 350px;
+  }
+}
+
+.nav-item.dropdown.nav-bar {
+}
+
+.dropdown-toggle.nav-bar {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.terms-and-conditions {
+}
+
+.card-header:first-child {
+  max-width: 500px;
+  margin-left: 200px;
+}
+
+.card.whole-panel-user {
+  background-color: rgb(12,4,1);
+  max-width: 1500px;
+  margin-left: 200px;
+  margin-top: 150px;
+}
+
+#user-management {
+  background-image: url("../../assets/img/coca-cola-brand-drink-bank-wallpaper-98361c2adfac27d94e70e99212f92b00.jpg");
+  width: 100%;
+  height: 100vh;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: 0% 0%;
+}
+
+#header-all-users {
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(225,48,34);
+  margin-top: 3%;
+  filter: brightness(87%);
+  font-family: Montserrat, sans-serif;
+  margin-left: 150px;
+  width: 800px;
+  line-height: 70px;
+  text-shadow: 1px 1px #000000;
+}
+
+#header-registration {
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(225,48,34);
+  margin-top: 20px;
+  filter: brightness(106%) hue-rotate(0deg);
+  font-family: Montserrat, sans-serif;
+  width: 350px;
+  line-height: 50px;
+  text-shadow: 1px 1px #000000;
+  margin-left: 50px;
+}
+
+@media (min-width: 576px) {
+  #header-registration {
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(225,48,34);
+    margin-top: 150px;
+    filter: brightness(87%);
+    font-family: Montserrat, sans-serif;
+    margin-left: 230px;
+    width: 800px;
+    line-height: 70px;
+    text-shadow: 1px 1px #000000;
+  }
+}
+
+#contact-connect-company-box {
+}
+
+@media (min-width: 576px) {
+  #contact-connect-company-box {
+  }
+}
+
+@media (min-width: 768px) {
+  #footer-company {
+    font-size: 23px;
+    margin-top: 70px;
+  }
+}
+

@@ -1,0 +1,28 @@
+#box-1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("../../assets/img/coca_fun-04.png");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("../../assets/img/img-bus-3.jpg");
+  background-size: cover;
+  /*display: table;*/
+  /*background-attachment: fixed;*/
+}
+
+#box-3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("../../assets/img/red-printed-banner-outside-store-front-728414.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+  background-position: 30% 50%;
+}
+

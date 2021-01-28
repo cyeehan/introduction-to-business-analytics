@@ -1,0 +1,39 @@
+{
+  "player": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "hobbies": [
+        "Cycling",
+        "Netlix",
+        "Travelling"
+      ],
+      "addresses": [
+        {
+          "addressId": "1",
+          "postalCode": "7400",
+          "country": "Malaysia",
+          "state": "Kuala Lumpur",
+          "line1": "Jane Street, 191"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marry Lane",
+      "hobbies": [
+        "Rock climbing",
+        "Eating"
+      ],
+      "addresses": [
+        {
+          "addressId": "1",
+          "postalCode": "2100",
+          "country": "Malaysia",
+          "state": "Selangor",
+          "line1": "Elementi, 200"
+        }
+      ]
+    }
+  ]
+}

@@ -69,7 +69,7 @@ Run this command: `sudo chown -R $USER /usr/local/lib/node_modules`
 ```
 
 
-## References:
+## References
 
 1. [JSON Server](https://www.npmjs.com/package/json-server) from npmjs.
 2. [How to fix the "Missing write access" error when using npm](https://flaviocopes.com/npm-fix-missing-write-access-error/).
